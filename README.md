@@ -45,7 +45,7 @@ The optional intergration in the top bar
 Clone the repository and run the GUI:
 
 ```bash
-git clone https://github.com/dein-user/sysmon.git
+git clone https://github.com/d0358023/sysmon.git
 cd sysmon
 python3 main.py
 ```
